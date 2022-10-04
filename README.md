@@ -28,3 +28,5 @@ puts 'Hello, World'
 </details>
 
 
+- [ ] タスク1
+- [x] タスク2
